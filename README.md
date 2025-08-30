@@ -29,21 +29,6 @@ Whether you’re just starting out or aiming to polish your SQL skills, this gui
 
 ---
 
-## 🚀 Get Started
-
-👉 Start your journey here:
-
-1. [01\_basics.md](./01_basics.md) – Introduction to SQL & Simple Queries
-2. [02\_queries.md](./02_queries.md) – Filtering, Sorting, and Conditions
-3. [03\_joins.md](./03_joins.md) – Understanding Joins in SQL
-4. [04\_grouping.md](./04_grouping.md) – Grouping & Aggregations
-5. [05\_subqueries.md](./05_subqueries.md) – Subqueries & CTEs
-6. [06\_transactions.md](./06_transactions.md) – Transactions, Keys & Constraints
-7. [07\_indexes.md](./07_indexes.md) – Indexing & Performance Optimization
-8. [08\_best\_practices.md](./08_best_practices.md) – Best Practices & Advanced Tips
-
----
-
 ## 🛠 Requirements
 
 * Any SQL Database (MySQL, PostgreSQL, SQLite, SQL Server, etc.)
@@ -57,8 +42,6 @@ By the end of this series, you’ll be able to **write efficient SQL queries**, 
 
 ---
 
-🔥 Ready? → Begin with **[01\_basics.md](./01_basics.md)**
+🔥 Ready? → Begin with **[SQL Learning Series for Beginners (1 - 18).md]((1 - 18))**
 
----
 
-Do you want me to also **generate the first `01_basics.md` file now** so you can start linking it in GitHub right away?
