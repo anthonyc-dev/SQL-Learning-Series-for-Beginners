@@ -336,5 +336,3 @@ SELECT LENGTH(name) FROM customers;  -- string length
 Next sections could cover **advanced JOIN tricks, window functions, CTEs, performance tuning, indexing strategies, query optimization, security (roles & privileges), and backup/restore**.
 
 ---
-
-Do you want me to **continue building this series (19 → 30+)** into intermediate/advanced topics so your GitHub doc looks like a **complete SQL handbook**?
