@@ -17,7 +17,7 @@ Whether you’re just starting out or aiming to polish your SQL skills, this gui
 ---
 
 ## 📑 What You’ll Learn
-
+```
 ✅ SQL Basics (SELECT, INSERT, UPDATE, DELETE)
 ✅ Filtering & Sorting Data (WHERE, ORDER BY, LIMIT)
 ✅ Joins (INNER, LEFT, RIGHT, FULL)
@@ -26,7 +26,7 @@ Whether you’re just starting out or aiming to polish your SQL skills, this gui
 ✅ Indexing & Optimization
 ✅ Transactions & Constraints
 ✅ Advanced Best Practices
-
+```
 ---
 
 ## 🛠 Requirements
