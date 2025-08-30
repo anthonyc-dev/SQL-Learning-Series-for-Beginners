@@ -352,14 +352,14 @@ SELECT TRIM(customer_name), UPPER(city) FROM raw_orders;
 ---
 
 ## 40. Final Best Practices (Advanced)
-```
-✅ Always document your schema.
-✅ Use **naming conventions** (snake\_case).
-✅ Archive old data instead of deleting.
-✅ Monitor slow queries with logs.
-✅ Automate backups & schema migrations.
-✅ Secure with roles & encryption.
-✅ Think about **scalability** early (partitioning, sharding).
-```
+
+- ✅ Always document your schema.
+- ✅ Use **naming conventions** (snake\_case).
+- ✅ Archive old data instead of deleting.
+- ✅ Monitor slow queries with logs.
+- ✅ Automate backups & schema migrations.
+- ✅ Secure with roles & encryption.
+- ✅ Think about **scalability** early (partitioning, sharding).
+
 ---
 
