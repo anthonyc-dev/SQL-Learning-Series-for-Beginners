@@ -336,3 +336,4 @@ SELECT LENGTH(name) FROM customers;  -- string length
 Next sections could cover **advanced JOIN tricks, window functions, CTEs, performance tuning, indexing strategies, query optimization, security (roles & privileges), and backup/restore**.
 
 ---
+Next: [SQL Learning Series (Series 19 - 39)](SQL%20Learning%20Series%20(Series%2019%20-%2039).md)
