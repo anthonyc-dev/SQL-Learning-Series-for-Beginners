@@ -1,14 +1,3 @@
-Got it ✅
-You want a **main `README.md`** that serves as an **entry point** for your SQL documentation repo.
-It should have:
-
-* **Intro / Overview of SQL** (short + beginner-friendly)
-* **Purpose of Repo** (what people will learn)
-* **Navigation / Get Started section** (links to other `.md` files in series, like `01_basics.md`, `02_queries.md`, etc.)
-
-Here’s a clean version you can use:
-
----
 
 # 📘 SQL Documentation for Beginners
 
