@@ -57,6 +57,6 @@ By the end of this series, you’ll be able to **write efficient SQL queries**, 
 
 ---
 
-🔥 Ready? → Begin with **[01\_basics.md](./SQL Learning Series for Beginners (1 - 18).md)**
+🔥 Ready? → Begin with **[(Series 19 - 39)](./SQL%20Learning%20Series%20(Series%2019%20-%2039).md)**
 
 
