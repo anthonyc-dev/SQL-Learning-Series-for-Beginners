@@ -41,6 +41,10 @@ Whether you’re just starting out or aiming to polish your SQL skills, this gui
 By the end of this series, you’ll be able to **write efficient SQL queries**, understand how relational databases work, and apply best practices for real-world projects.
 
 ---
+## Credits
+- Developed by **[Anthony Crausus](https://github.com/anthonyc-dev)**
+
+---
 
 🔥 Ready? → Begin with **[SQL Learning Series for Beginners (1 - 18)](SQL%20Learning%20Series%20for%20Beginners%20(1%20-%2018).md)**
 
